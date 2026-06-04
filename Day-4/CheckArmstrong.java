@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
-public class Q15_ArmstrongCheck {
-    public static void main(String[] args) {
+public class CheckArmstrong 
+{
+    public static void main(String[] args) 
+    {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the number you want to check: ");
